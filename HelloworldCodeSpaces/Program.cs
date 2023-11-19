@@ -6,7 +6,7 @@ app.MapGet("/", GetResult);
 
 string GetResult()
 {
-  return "Hello World"; 
+  return "Hello World 1"; 
 }
 
 app.Run();
